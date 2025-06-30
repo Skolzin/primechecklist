@@ -1,2 +1,4 @@
 dropbox
 python-dotenv
+Werzeug
+python-docx
