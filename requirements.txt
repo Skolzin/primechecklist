@@ -2,3 +2,5 @@ dropbox
 python-dotenv
 Werkzeug
 python-docx
+Flask
+gunicorn
