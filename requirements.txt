@@ -1,8 +1,7 @@
-dropbox
+flask==2.3.3
+werkzeug==2.3.7
+gunicorn==21.2.0
+python-docx==1.1.0
 python-dotenv
-Werkzeug
-python-docx
-Flask
-gunicorn
-fpdf
-supabase
+fpdf2
+supabase-py
